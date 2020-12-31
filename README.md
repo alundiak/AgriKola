@@ -1,5 +1,4 @@
-# agricola
-AgriKoła
+# AgriKoła
 
 Experimental, small project, as aggregation of surnames in a form of grid, clasified by surname specific. 
 
