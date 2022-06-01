@@ -11,7 +11,7 @@ Just a words play... but:
 - [Koła](https://en.wikipedia.org/wiki/Ko%C5%82a) is a noble surname in 1470-1480 years in East Galicia (Ukraine), whom I'm trying to research more, because someone from them might be related to history of village where I born. _Koła_ is a polish version, and latin form of surname is _Cola_.
 
 # Description
-Based on list of "root" part of possible surnames, JavaScript code concantenate with "ending" with possible surnames, and combine in one word. Then hyperlink created referring to well known service [Ridni.Org](https://ridni.org/karta/).
+Based on list of "root" part of possible surnames, JavaScript code concatenate with "ending" with possible surnames, and combine in one word. Then hyperlink created referring to well known service [Ridni.Org](https://ridni.org/karta/).
 
 # TODO
 - Tooltip with project description.
